@@ -1,0 +1,19 @@
+# Données et images
+*.png
+*.csv
+
+# Environnements virtuels Python
+venv/
+env/
+.env
+.ds-env/
+ds-env/
+ENV/
+
+# Fichiers temporaires et sessions
+session.json
+
+# Modèles entraînés
+*.h5
+models/
+

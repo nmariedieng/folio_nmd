@@ -1,0 +1,20 @@
+pandas
+matplotlib 
+seaborn 
+scikit-learn
+tensorflow
+
+# --- Time Series Forecasting ---
+prophet             # modèle de prévision (anciennement fbprophet)
+statsmodels         # ARIMA / SARIMA et outils de séries temporelles
+holidays            # jours fériés pour features temporelles
+xgboost             # modèle de prévision (anciennement fbprophet)
+
+# --- Dashboard & API ---
+streamlit           # pour le tableau de bord interactif
+plotly              # graphiques interactifs
+python-dotenv       # gestion des clés d’API (.env)
+requests            # pour appeler l’API OpenWeather
+
+# --- Timezone ---
+pytz                # gestion des fuseaux horaires
